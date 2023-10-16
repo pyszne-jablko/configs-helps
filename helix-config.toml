@@ -1,0 +1,8 @@
+theme = "nightfox"
+
+[editor]
+rulers = [80, 120]
+
+[editor.soft-wrap]
+enable = true
+

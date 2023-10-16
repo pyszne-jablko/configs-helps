@@ -1,9 +1,9 @@
-# nvim-configs-helps
-My configuration for nvim (neovim) and some files with helpful informations and shortcuts.
+# configs-helps
 
-# Key binding / key map
+Here are few configuration files for my apps. Mostly for Linux.
 
-To view all of the keys maps you can type `:map`. Other optins are:
-- `:nmap` view keys maps for normal mode
-- `:vmap` view keys maps for visual mode
-- `:imap` view keys maps for insert mode
+| files | desc. |
+| --- | --- |
+| .tmux.conf | Configuratin file for 'tmux'. Should be in home directory. |
+| helix-config.toml | Configuration file for 'hx' (helix editor). |
+
